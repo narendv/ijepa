@@ -1,0 +1,3 @@
+[submodule "ijepa-mpc"]
+	path = ijepa-mpc
+	url = git@github.com:aliumutkaypak/ijepa-mpc.git
